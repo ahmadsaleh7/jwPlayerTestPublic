@@ -1,0 +1,75 @@
+{
+  "advertising": {
+    "adscheduleid": "whlaG6ZL",
+    "autoplayadsmuted": false,
+    "endstate": "suspended",
+    "outstream": false,
+    "vpaidcontrols": false
+  },
+  "aspectratio": "16:9",
+  "autoPause": {
+    "viewability": false
+  },
+  "autostart": false,
+  "controls": true,
+  "displayHeading": false,
+  "displaydescription": true,
+  "displaytitle": true,
+  "floating": {
+    "mode": "never"
+  },
+  "generateSEOMetadata": false,
+  "include_compatibility_script": false,
+  "intl": {
+    "en": {
+      "advertising": {
+        "admessage": "test",
+        "cuetext": "Cue Marker Text",
+        "skipmessage": "Skip Ad 10"
+      },
+      "sharing": {
+        "heading": "Share Video"
+      }
+    }
+  },
+  "logo": {
+    "hide": true,
+    "position": "top-right"
+  },
+  "mute": false,
+  "pipIcon": "disabled",
+  "playbackRateControls": false,
+  "preload": "metadata",
+  "repeat": false,
+  "sharing": {
+    "code": "",
+    "sites": [
+      "facebook",
+      "linkedin",
+      "twitter",
+      "email"
+    ]
+  },
+  "skin": {
+    "controlbar": {
+      "background": "rgba(0,0,0,0)",
+      "icons": "rgba(255,255,255,0.8)",
+      "iconsActive": "#FFFFFF",
+      "text": "#FFFFFF"
+    },
+    "menus": {
+      "background": "#333333",
+      "text": "rgba(255,255,255,0.8)",
+      "textActive": "#FFFFFF"
+    },
+    "timeslider": {
+      "progress": "#F2F2F2",
+      "rail": "rgba(255,255,255,0.3)"
+    },
+    "tooltips": {
+      "background": "#FFFFFF",
+      "text": "#000000"
+    }
+  },
+  "width": "100%"
+}
